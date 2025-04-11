@@ -1,2 +1,2 @@
 # KodingNext-MusicPlayer
-Python Music Player with Simple GUI
+This is my implementation for Python GUI for Music Player (A simple code)
